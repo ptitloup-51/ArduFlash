@@ -74,7 +74,6 @@ Arduino → LED (optocoupleur) → Photorécepteur → Court-circuit hot shoe �
 2. Imprimez avec les paramètres suivants :
    - **Matériau :** PLA
    - **Remplissage :** 15%
-   - **Résolution :** 0.2mm
    - **Supports :** Oui
 
 ### Étape 2 : Installation des contacts
