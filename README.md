@@ -248,6 +248,9 @@ Outils → Port → [Sélectionnez votre port COM]
 5. **Observez** le flash se déclencher
 
 ---
+### Montage complet
+![Montage complet](images/IMG_3840.jpeg)
+---
 
 **Version:** 1.0  
 **Dernière mise à jour:** Décembre 2025
