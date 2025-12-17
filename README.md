@@ -170,10 +170,6 @@ _[TODO: Ajoutez ici une photo de votre montage réel]_
   
   Déclenche le flash en shuntant les contacts du hot shoe
   via un optocoupleur PC817 pour isolation galvanique.
-  
-  Auteur: Votre Nom
-  Date: 2024
-  License: MIT
 */
 
 // Configuration des pins
