@@ -5,6 +5,9 @@ Déclencheur de flash DIY pour contrôler un Godox V1C (ou tout autre flash comp
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-Due-00979D?logo=arduino)
 
+
+![Rendu](images/rendu.png)
+
 ## 📋 Table des matières
 
 - [Présentation](#présentation)
@@ -155,9 +158,9 @@ Pin 4 : Collecteur         → Hot shoe Trigger (Clou 1)
 
 
 
-### Photo du montage (à ajouter)
+### Photo du montage
 
-_[TODO: Ajoutez ici une photo de votre montage réel]_
+![Montage complet](images/IMG_3840.jpeg)
 
 ## 💻 Code Arduino
 
@@ -246,11 +249,6 @@ Outils → Port → [Sélectionnez votre port COM]
 3. **Choisissez une puissance**
 4. **Alimentez l'Arduino** via USB
 5. **Observez** le flash se déclencher
-
----
-### Montage complet
-![Montage complet](images/IMG_3840.jpeg)
----
 
 **Version:** 1.0  
 **Dernière mise à jour:** Décembre 2025
